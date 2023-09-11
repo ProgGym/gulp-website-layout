@@ -6,7 +6,9 @@
 3. **npm (Installed with Node.js)**
 
 **Run project in Visual Studio Code, and type in terminal command for install all necessary packages:**<br>
-`npm i gulp gulp-sass sass gulp-file-include gulp-clean gulp-server-livereload gulp-sourcemaps gulp-plumber gulp-notify gulp-group-css-media-queries webpack-stream style-loader css-loader gulp-babel @babel/core @babel/preset-env gulp-imagemin@7 gulp-changed gulp-sass-glob gulp-autoprefixer gulp-csso gulp-htmlclean gulp-webp gulp-webp-html gulp-webp-css --save-dev`
+```
+npm i gulp gulp-sass sass gulp-file-include gulp-clean gulp-server-livereload gulp-sourcemaps gulp-plumber gulp-notify gulp-group-css-media-queries webpack-stream style-loader css-loader gulp-babel @babel/core @babel/preset-env gulp-imagemin@7 gulp-changed gulp-sass-glob gulp-autoprefixer gulp-csso gulp-htmlclean gulp-webp gulp-webp-html gulp-webp-css --save-dev
+```
 
 ## Packages description
 
